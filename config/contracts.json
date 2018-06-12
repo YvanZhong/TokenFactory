@@ -1,0 +1,27 @@
+{
+  "default": {
+    "deployment": {
+      "host": "0.0.0.0",
+      "port": 8545,
+      "type": "rpc"
+    },
+    "dappConnection": [
+      "$WEB3",
+      "http://203.195.147.104:8545"
+    ],
+    "gas": "auto",
+    "contracts": {
+      "Token": {
+      "args": {
+          "initial_balance": 1000
+        }
+      },
+
+      "SimpleStorage": {
+        "args": [
+          100
+        ]
+      }
+    }
+  }
+}

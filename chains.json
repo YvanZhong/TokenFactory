@@ -1,0 +1,27 @@
+{
+  "0xcdca9e31534550b31a88f229853c20528605d829ebd2ffe08e1b6c810572c151": {
+    "contracts": {
+      "0xbd55bd0106f0e7df6460b337324de2402d8a59354e2bab74230a22f0be02509c": {
+        "name": "Token",
+        "address": "0x30E844F7Ef9a3657D766db5Abeb03568498A9964"
+      },
+      "0x149c8272244054ddbbc66496f0b69b5ab890402f4eb258f01c69b23c6cb61d02": {
+        "name": "Token",
+        "address": "0x456e1fF09eF30E160693a56b2DbA480aC696DfbF"
+      },
+      "0x7b627ca660578ee122d93a016f9267aec22661bda0dc6bdfae365a4948d90e0f": {
+        "name": "Token",
+        "address": "0x6f7540f5a65A3FD05f45B071075445a78611f993"
+      },
+      "0x6892d22a536df52527af7e0ffa28aa0ac44923003b0708834952216e6178c8eb": {
+        "name": "SimpleStorage",
+        "address": "0xE4Ee0836C7c88072934925c33139B0AD2BdDf712"
+      },
+      "0x053fb68e9555212776e0cbc17736c28ad03d7ee0ef40ada9b5cc58c041588efd": {
+        "name": "Token",
+        "address": "0x593d6925Cc44532A5Bc3EcC839cf11f4E2B28baD"
+      }
+    },
+    "name": "development"
+  }
+}
